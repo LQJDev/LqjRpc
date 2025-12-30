@@ -1,0 +1,9 @@
+lqj:
+  rpc:
+    server:
+      enable: true
+      name: provider
+      port: 8080
+      host-name: 127.0.0.1
+server:
+  port: 8080
